@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6d18f07-4f00-4662-9151-6bf556ef26a9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1900473928">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="266" />
+          <entry key="java" value="2" />
+          <entry key="lang" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="266" />
+          <entry key="PLAIN_TEXT" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="5742" />
+          <entry key="lang" value="530" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="5742" />
+          <entry key="PLAIN_TEXT" value="530" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Parser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+              <folding>
+                <marker date="1545691771979" expanded="false" signature="6:46" ph="..." />
+                <marker date="1545691771979" expanded="true" signature="80:9434" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="107:9431" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="227:309" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="354:555" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="594:810" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="845:1055" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="1147:1555" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="1430:1507" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="1607:3144" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="1652:3134" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="3189:3552" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="3381:3516" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="3599:3948" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="3833:3911" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="3996:4477" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="4041:4467" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="4524:4823" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="4871:5198" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="4977:5163" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="5246:5576" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="5360:5541" ph="{...}" />
+                <marker date="1545691771979" expanded="false" signature="5620:8245" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="5665:8235" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="5890:6530" ph="/* Accept(Token.LEFT_BRAKET); ... */" />
+                <marker date="1545691771979" expanded="true" signature="7701:8103" ph="/* case Token.INTEGERLITERAL: ... */" />
+                <marker date="1545691771979" expanded="true" signature="8288:8651" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="8347:8507" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="8507:8641" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="8698:9031" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="8759:8923" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="9083:9425" ph="{...}" />
+                <marker date="1545691771979" expanded="true" signature="9263:9382" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>expresso</find>
+      <find>expr</find>
+      <find>As</find>
+      <find>Ast.</find>
+      <find>tab</find>
+      <find>IdEntry</find>
+      <find>entry</find>
+      <find>attr</find>
+      <find>String</find>
+      <find>chec</find>
+      <find>System.out.println</find>
+      <find>enco</find>
+      <find>parseIdList</find>
+      <find>ParseOneS</find>
+      <find>Error</find>
+      <find>ParseExpression</find>
+      <find>bina</find>
+      <find>operand</find>
+      <find>binar</find>
+      <find>Not Decla</find>
+      <find>storage</find>
+      <find>v</find>
+      <find>throw</find>
+      <find>Decla</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Pillow</replace>
+      <replace>pillow</replace>
+      <replace>declaration</replace>
+      <replace>string</replace>
+      <replace>Console.WriteLine</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/c4/0c9a85f2/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/68/2443dde5/BinaryReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/a5/23378e2c/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/UnaryExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/BinaryExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Lexer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Operator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/FunctionDeclaration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Declarations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/VariableDeclaration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/VariableExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Expressions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Terminal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/16/2b3e19c4/FileStream.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Checker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Encoder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Identifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/TAM/Instruction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Declaration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/TAM/Machine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D42F0E0B-BFC7-4D33-B4B4-6DEEF693FD25/64/053aed10/Regex.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Expression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Type.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/SOFA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Statements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Pillow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Assignment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Storage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Statement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/SourceFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/ExpressionStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Scanner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Popping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/AST.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Token.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Parser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/1b/9ad54f51/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/8a/1500464e/Char.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SofaCompiler/Scanner.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Token.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Parser.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Assignment.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/AST.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Declaration.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Expression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Statement.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Statements.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Scanner.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/SourceFile.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Terminal.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Identifier.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Program.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Program.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Expressions.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/VarExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/CallExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Lexer.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Checker.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Type.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Instruction.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/TAM/Machine.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/TAM/Instruction.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Adress.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Address.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/AssignmentStatement.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/DeclarationStatement.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/VariableExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/VariableDeclaration.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Declarations.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Declarations.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/FunctionDeclaration.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/ExpressionStatement.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/FunctionDeclaration.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/VariableExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Operator.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/BinaryExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/SOFA.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/Popping.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/UnaryExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Token.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/sofaLanguage.lang" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/BinaryExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/AST/UnaryExpression.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Encoder.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Program.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Checker.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Pillow.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Storage.cs" />
+        <option value="$PROJECT_DIR$/SofaCompiler/Compiler/Parser.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Compiler" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Compiler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SofaCompiler" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Compiler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SofaCompiler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Compiler" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Compiler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SofaCompiler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Compiler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AST" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SofaCompiler/bin/Debug/SofaCompiler.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SofaCompiler/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SofaCompiler/SofaCompiler.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6d18f07-4f00-4662-9151-6bf556ef26a9" name="Default Changelist" comment="" />
+      <created>1545577364863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545577364863</updated>
+      <workItem from="1545577366062" duration="11569000" />
+      <workItem from="1545651813903" duration="16285000" />
+      <workItem from="1545675175517" duration="11677000" />
+      <workItem from="1545689914537" duration="1856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41387000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14270501" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24927816" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24168514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34035477" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3292683" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3946785" />
+      <window_info anchor="bottom" id="Change Signature" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32969433" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SofaCompiler/Program.cs</url>
+          <line>16</line>
+          <properties documentPath="$PROJECT_DIR$/SofaCompiler/Program.cs" initialLine="16">
+            <startOffsets>
+              <option value="462" />
+            </startOffsets>
+            <endOffsets>
+              <option value="506" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SofaCompiler/Compiler/Checker.cs</url>
+          <line>106</line>
+          <properties documentPath="$PROJECT_DIR$/SofaCompiler/Compiler/Checker.cs" initialLine="106">
+            <startOffsets>
+              <option value="3444" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3445" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SofaCompiler/Compiler/Storage.cs</url>
+          <line>47</line>
+          <properties documentPath="$PROJECT_DIR$/SofaCompiler/Compiler/Storage.cs" initialLine="47">
+            <startOffsets>
+              <option value="1070" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1071" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>TOKENS[i]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/AST.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Uni/CMC/intlang/ast/Identifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Terminal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/CallExpression.cs" />
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Lexer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Assignment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/TAM/Machine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/TAM/Instruction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/VarExpression.cs" />
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Address.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Declaration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/AssignmentStatement.cs" />
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/DeclarationStatement.cs" />
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Expression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Expressions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Statement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/1b/9ad54f51/Console.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1571" column="6" selection-start-line="1571" selection-start-column="6" selection-end-line="1571" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/16/2b3e19c4/FileStream.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="755" column="8" selection-start-line="755" selection-start-column="8" selection-end-line="755" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/68/2443dde5/BinaryReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/8a/1500464e/Char.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="365" column="6" selection-start-line="365" selection-start-column="6" selection-end-line="365" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/a5/23378e2c/StringBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="260" column="6" selection-start-line="260" selection-start-column="6" selection-end-line="260" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2979110A-DCF4-4908-8C79-E7203BD2BF18/c4/0c9a85f2/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="2488" column="6" selection-start-line="2488" selection-start-column="6" selection-end-line="2488" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D42F0E0B-BFC7-4D33-B4B4-6DEEF693FD25/64/053aed10/Regex.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="469" column="6" selection-start-line="469" selection-start-column="6" selection-end-line="469" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/FunctionDeclaration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Operator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/SourceFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/sofaLanguage.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/BinaryExpression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <marker date="1545689961504" expanded="true" signature="36:540" ph="{...}" />
+            <marker date="1545689961504" expanded="true" signature="86:537" ph="{...}" />
+            <marker date="1545689961504" expanded="true" signature="302:398" ph="{...}" />
+            <marker date="1545689961504" expanded="true" signature="463:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/UnaryExpression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1545689953859" expanded="true" signature="36:432" ph="{...}" />
+            <marker date="1545689953859" expanded="true" signature="85:429" ph="{...}" />
+            <marker date="1545689953859" expanded="true" signature="226:292" ph="{...}" />
+            <marker date="1545689953859" expanded="true" signature="357:423" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Token.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1545688326642" expanded="false" signature="6:115" ph="..." />
+            <marker date="1545688326642" expanded="true" signature="149:3735" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="175:3732" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="276:621" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="430:611" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="499:593" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="664:1348" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="2972:3137" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="3178:3326" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="3364:3538" ph="{...}" />
+            <marker date="1545688326642" expanded="true" signature="3576:3726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Type.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <marker date="1545660700548" expanded="true" signature="32:192" ph="{...}" />
+            <marker date="1545660700548" expanded="true" signature="57:189" ph="{...}" />
+            <marker date="1545660700548" expanded="true" signature="130:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Scanner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="8" />
+          <folding>
+            <marker date="1545584179317" expanded="false" signature="6:56" ph="..." />
+            <marker date="1545584179317" expanded="true" signature="90:3193" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="118:3190" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="303:390" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="430:523" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="568:648" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="692:765" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="804:1318" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="835:1308" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="1353:2780" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="1390:1581" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="1617:1784" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="1815:2770" ph="{...}" />
+            <marker date="1545584179317" expanded="true" signature="2810:3184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Popping.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="36" selection-end-column="37" />
+          <folding>
+            <marker date="1545686909955" expanded="true" signature="36:1002" ph="{...}" />
+            <marker date="1545686909955" expanded="true" signature="69:999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Encoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <marker date="1545690507643" expanded="false" signature="6:144" ph="..." />
+            <marker date="1545690507643" expanded="true" signature="178:5615" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="217:5612" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="361:756" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="388:483" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="801:849" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="922:1262" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="1112:1252" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="1319:1763" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="1337:1596" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="1630:1753" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="1819:1867" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="1920:2271" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="2337:2500" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="2566:2616" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="2687:2723" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="2794:2961" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="2867:2925" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="3035:3206" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="3111:3170" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="3283:3591" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="3677:4009" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="4098:4659" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="4748:4825" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="4920:5235" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="5333:5448" ph="{...}" />
+            <marker date="1545690507643" expanded="true" signature="5546:5606" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Identifier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <marker date="1545586243948" expanded="true" signature="51:396" ph="{...}" />
+            <marker date="1545586243948" expanded="true" signature="93:393" ph="{...}" />
+            <marker date="1545586243948" expanded="true" signature="190:248" ph="{...}" />
+            <marker date="1545586243948" expanded="true" signature="314:387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Declarations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <marker date="1545680900658" expanded="true" signature="63:304" ph="{...}" />
+            <marker date="1545680900658" expanded="true" signature="102:301" ph="{...}" />
+            <marker date="1545680900658" expanded="true" signature="229:295" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/SOFA.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <marker date="1545686442825" expanded="true" signature="36:545" ph="{...}" />
+            <marker date="1545686442825" expanded="true" signature="67:542" ph="{...}" />
+            <marker date="1545686442825" expanded="true" signature="332:415" ph="{...}" />
+            <marker date="1545686442825" expanded="true" signature="480:536" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Statements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <marker date="1545586243967" expanded="true" signature="63:353" ph="{...}" />
+            <marker date="1545586243967" expanded="true" signature="100:350" ph="{...}" />
+            <marker date="1545586243967" expanded="true" signature="281:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/ExpressionStatement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <marker date="1545680727171" expanded="true" signature="35:437" ph="{...}" />
+            <marker date="1545680727171" expanded="true" signature="87:434" ph="{...}" />
+            <marker date="1545680727171" expanded="true" signature="243:292" ph="{...}" />
+            <marker date="1545680727171" expanded="true" signature="357:428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/VariableExpression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1545681949577" expanded="false" signature="6:46" ph="..." />
+            <marker date="1545681949577" expanded="true" signature="84:522" ph="{...}" />
+            <marker date="1545681949577" expanded="true" signature="136:519" ph="{...}" />
+            <marker date="1545681949577" expanded="true" signature="337:378" ph="{...}" />
+            <marker date="1545681949577" expanded="true" signature="443:513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Pillow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1545691274643" expanded="true" signature="66:481" ph="{...}" />
+            <marker date="1545691274643" expanded="true" signature="95:478" ph="{...}" />
+            <marker date="1545691274643" expanded="true" signature="284:382" ph="{...}" />
+            <marker date="1545691274643" expanded="true" signature="415:472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <marker date="1545690549142" expanded="false" signature="6:103" ph="..." />
+            <marker date="1545690549142" expanded="true" signature="128:1170" ph="{...}" />
+            <marker date="1545690549142" expanded="true" signature="158:1167" ph="{...}" />
+            <marker date="1545690549142" expanded="true" signature="227:1161" ph="{...}" />
+            <marker date="1545690549142" expanded="true" signature="390:1151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Storage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <marker date="1545691302786" expanded="false" signature="6:72" ph="..." />
+            <marker date="1545691302786" expanded="true" signature="106:1278" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="136:1275" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="259:270" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="332:580" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="625:715" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="744:776" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="807:1028" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="921:996" ph="{...}" />
+            <marker date="1545691302786" expanded="true" signature="1070:1269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <marker date="1545586243974" expanded="true" signature="36:351" ph="{...}" />
+            <marker date="1545586243974" expanded="true" signature="70:348" ph="{...}" />
+            <marker date="1545586243974" expanded="true" signature="180:217" ph="{...}" />
+            <marker date="1545586243974" expanded="true" signature="282:341" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Checker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1545690802818" expanded="false" signature="6:72" ph="..." />
+            <marker date="1545690802818" expanded="true" signature="106:4098" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="147:4095" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="256:304" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="357:478" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="544:682" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="748:798" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="869:920" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="991:1207" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="1281:1489" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="1566:1739" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="1643:1703" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="1825:2154" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="2231:2597" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="2685:2772" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="2867:3346" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="3444:3605" ph="{...}" />
+            <marker date="1545690802818" expanded="true" signature="3703:4089" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/AST/VariableDeclaration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <marker date="1545679785000" expanded="true" signature="36:409" ph="{...}" />
+            <marker date="1545679785000" expanded="true" signature="90:406" ph="{...}" />
+            <marker date="1545679785000" expanded="true" signature="232:264" ph="{...}" />
+            <marker date="1545679785000" expanded="true" signature="329:400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SofaCompiler/Compiler/Parser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+          <folding>
+            <marker date="1545691771979" expanded="false" signature="6:46" ph="..." />
+            <marker date="1545691771979" expanded="true" signature="80:9434" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="107:9431" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="227:309" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="354:555" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="594:810" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="845:1055" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="1147:1555" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="1430:1507" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="1607:3144" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="1652:3134" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="3189:3552" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="3381:3516" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="3599:3948" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="3833:3911" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="3996:4477" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="4041:4467" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="4524:4823" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="4871:5198" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="4977:5163" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="5246:5576" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="5360:5541" ph="{...}" />
+            <marker date="1545691771979" expanded="false" signature="5620:8245" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="5665:8235" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="5890:6530" ph="/* Accept(Token.LEFT_BRAKET); ... */" />
+            <marker date="1545691771979" expanded="true" signature="7701:8103" ph="/* case Token.INTEGERLITERAL: ... */" />
+            <marker date="1545691771979" expanded="true" signature="8288:8651" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="8347:8507" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="8507:8641" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="8698:9031" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="8759:8923" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="9083:9425" ph="{...}" />
+            <marker date="1545691771979" expanded="true" signature="9263:9382" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

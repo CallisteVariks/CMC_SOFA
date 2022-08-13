@@ -1,0 +1,60 @@
+//Class example
+tag Hub;
+tag Hub.Cluster.Generic;
+
+sofa container MySofa <- IKia { 
+	
+	sofa nop pillowNumber;
+	sofa dust name;
+	sofa spot isDirty;
+	
+	sofa list<dust> listOfPillow = "Hart", "Kony";
+
+
+	sofa MySofa : nop pillowNumber, dust name, spot isDirty{
+		this.pillowNumber = pillowNumber;
+		this.name = name;
+		this.isDirty = isDirty;
+	}
+
+
+	IKia void BuyFurniture{}
+
+	IKia nop Purchases : dust personName{}
+
+	sofa void IncreaseNumberOfPillows : nop pillows {
+		pillowNumber += extraPillows;
+	}
+
+	sofa dust GetNumberOfPillows => pillowNumber; 
+	
+	sofa dust GetName : dust name{
+		out name;
+	}
+	
+	sofa void ChangeName : dust newName, dust lastName { 
+		name = newName+lastName;
+	}
+	
+	sofa void SetIsDirty : spot dirty {
+		isDirty = dirty;
+	}
+	
+	sofa spot isDirty{
+		out isDirty;
+	}
+
+	sofa spot isDirty{
+		get isDirty;
+		set isDirty = value;
+	}
+	
+}
+
+sofa void Main(dust[] args){
+
+	MySofa mySofa = new MySofa : 5,"Ivan",false;
+
+		mySofa.GetName;
+		mySofa.ChangeName : "Maria","Ivanich";
+}

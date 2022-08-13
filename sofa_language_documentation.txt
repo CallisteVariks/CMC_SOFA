@@ -1,0 +1,40 @@
+Name: SOFA
+
+Two simple types: 
+										- String = dust
+								        	- integer = nop
+										- boolean = spot							xxxxxxx
+
+Assignment statement: 
+										- dust under = "There is dust under the sofa";
+										- nop pillows = 3;
+										- spot = false;								xxxxxxxxxxxxxxxxx
+
+Natural operations for your types: 
+										- +
+										- =
+										- -
+										- >						xxxxx
+										- <						xxxxxxxx
+										- /
+										- *
+										- dust.Compare 			xxxxxxxx
+										- dust.Length			xxxxxxxx
+										- dust.Name 			xxxxxxx
+										- spot.CompareTo 		xxxxxxxxxxxx
+										
+Structured Data Types: 
+										- list<dust> listName = new list<>;
+
+Statements for selection and repetition: 
+										- if else				xxxxxx
+										- while					
+										- for (foreach)			xxxxx
+
+Subroutines: 
+										- access level return value name parameters e.g. public dust MethodName(dust name, nop 2)
+			
+Simple console input / output: 
+										- tv.input				
+										- tv.output				
+

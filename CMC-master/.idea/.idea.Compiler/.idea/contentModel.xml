@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Programmering\University\CMC-master" t="IncludeFlat">
+      <e p="Compiler.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SofaCompiler" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Compiler" t="Include">
+          <e p="Address.cs" t="Include" />
+          <e p="AST" t="Include">
+            <e p="Assignment.cs" t="Include" />
+            <e p="Ast.cs" t="Include" />
+            <e p="BinaryExpression.cs" t="Include" />
+            <e p="Declaration.cs" t="Include" />
+            <e p="Declarations.cs" t="Include" />
+            <e p="Expression.cs" t="Include" />
+            <e p="Expressions.cs" t="Include" />
+            <e p="ExpressionStatement.cs" t="Include" />
+            <e p="FunctionDeclaration.cs" t="Include" />
+            <e p="Identifier.cs" t="Include" />
+            <e p="IntegerLiteral.cs" t="Include" />
+            <e p="Popping.cs" t="Include" />
+            <e p="Program.cs" t="Include" />
+            <e p="SOFA.cs" t="Include" />
+            <e p="Statement.cs" t="Include" />
+            <e p="Statements.cs" t="Include" />
+            <e p="Terminal.cs" t="Include" />
+            <e p="UnaryExpression.cs" t="Include" />
+            <e p="VariableDeclaration.cs" t="Include" />
+            <e p="VariableExpression.cs" t="Include" />
+          </e>
+          <e p="Checker.cs" t="Include" />
+          <e p="Encoder.cs" t="Include" />
+          <e p="Operator.cs" t="Include" />
+          <e p="Parser.cs" t="Include" />
+          <e p="Pillow.cs" t="Include" />
+          <e p="Scanner.cs" t="Include" />
+          <e p="SourceFile.cs" t="Include" />
+          <e p="Storage.cs" t="Include" />
+          <e p="Token.cs" t="Include" />
+          <e p="Type.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SofaCompiler.csproj" t="IncludeRecursive" />
+        <e p="sofaLanguage.lang" t="Include" />
+        <e p="TAM" t="Include">
+          <e p="Instruction.cs" t="Include" />
+          <e p="Machine.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\cca\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\cca\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cca\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Compiler.-1796720288.00" t="ExcludeRecursive" />
+  </component>
+</project>

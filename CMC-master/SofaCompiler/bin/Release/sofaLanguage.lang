@@ -1,0 +1,14 @@
+sofa dust hello;
+
+hello = "hello";
+
+sofa list<dust> hellos = "Hello","hElLo";
+
+tv.output hello;
+
+nop id =1;
+sofa dust hello = name.GetNameById{id}
+
+sofa dust GetHello:dust hello{
+
+}
